@@ -32,8 +32,8 @@
  * @specialidad "Ingeniería en Sistemas - UNEMI"
  * @idiomas ["Español"]
  * @intereses ["Programación", "Videojuegos", "Tecnología", "Filosofía japonesa"]
- * @armaSecreta "Café y persistencia ☕"
- * @debilidad "Red caótica y Wi-Fi inestable 💀"
+ * @armaSecreta "Café y persistencia"
+ * @debilidad "Red caótica y Wi-Fi inestable"
  *
  * @1010000101100010100001001010101001
  */
