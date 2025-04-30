@@ -1,52 +1,42 @@
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TuUsuario&style=plastic&color=crimson" alt="Profile Views"/>
 </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake dark style"/>
 </p>
 
 <div align="center">
-
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>Open profile</summary>
-
-
-<br>
-<div>
-  <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Anto;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
-  </div>
+  <img src="https://i.imgur.com/UvNBqZG.png" alt="Japanese Dragon" height="250"/>
 </div>
 
-<details>
-<summary>About me</summary>
+<h2 align="center" style="color: crimson;">🐉 闇の中へようこそ - Bienvenido al Reino de las Sombras 🐉</h2>
 
-<div align="left">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=AA0000&center=true&vCenter=true&width=435&lines=暗闇の中に光を探す;Desarrollador+de+software+oscuro;Sangre%2C+código+y+dragones;Eterno+aprendiz+y+guerrero+digital" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+<details>
+<summary>🈵 Acerca de mí</summary>
 
 ```js
 /**
- * Representa a Anthony Bermúdez.
+ * Representa a un guerrero digital del oriente oscuro.
  *
- * @constructor
- * @param {string} ubicacion - Ecuador
- * @param {string} idiomas - Español
- * @param {string} ocupacion - Estudiante universitario
- * @param {string} especializacion - Ingeniería en Sistemas
- * @param {string} intereses - Videojuegos, programación y aprendizaje continuo.
- * @param {string} pasatiempos - Jugar, programar y explorar nuevas tecnologías.
- * @param {string} educacion - Universidad Estatal de Milagro (UNEMI)
- * @param {string} disponible - Sí, abierto a colaborar en proyectos interesantes.
- * @param {string} fortaleza - Perseverancia
- * @param {string} debilidad - Wifi
+ * @location "Ecuador"
+ * @alias "Anthony Bermúdez"
+ * @specialidad "Ingeniería en Sistemas - UNEMI"
+ * @elemento "Fuego de dragón 🔥"
+ * @idiomas ["Español"]
+ * @intereses ["Programación", "Videojuegos", "Tecnología", "Filosofía japonesa"]
+ * @armaSecreta "Café y persistencia ☕"
+ * @debilidad "Red caótica y Wi-Fi inestable 💀"
  *
- * @throws {Error} A cualquier bug que se cruce en el camino.
- *
- * @returns {Object} AnthonyBermudez
+ * @returns {Desarrollador} Con espíritu samurái y corazón de código.
  */
 
 
