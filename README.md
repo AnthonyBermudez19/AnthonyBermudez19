@@ -35,7 +35,7 @@
  * @armaSecreta "Café y persistencia ☕"
  * @debilidad "Red caótica y Wi-Fi inestable 💀"
  *
- * @returns {Desarrollador} Sangre digital
+ * @1010000101100010100001001010101001
  */
 
 
