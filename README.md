@@ -31,7 +31,7 @@
  * @alias "Anto"
  * @specialidad "Ingeniería en Software- UNEMI"
  * @idiomas ["Español"]
- * @intereses ["Programación", "Videojuegos", "Tecnología", "Filosofía japonesa"]
+ * @intereses ["Programación", "Videojuegos", "Tecnología", "Música"]
  * @armaSecreta "Café y persistencia"
  * @debilidad "Red caótica y Wi-Fi inestable"
  *
