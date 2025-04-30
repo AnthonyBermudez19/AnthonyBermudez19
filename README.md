@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=AA0000&center=true&vCenter=true&width=435&lines=暗闇の中に光を探す;Desarrollador+de+software;Sangre%2C+código+y+muerte;Eterno+aprendiz+y+asesino+digital" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=AA0000&center=true&vCenter=true&width=435&lines=暗闇の中に光を探す;Desarrollador+de+software;Sangre%2C+código+y+lagrimas;Eterno+aprendiz+digital" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,18 +25,17 @@
 
 ```js
 /**
- * Muerte digital
+ * Sangre digital
  *
  * @location "Ecuador"
  * @alias "Anthony Bermúdez"
  * @specialidad "Ingeniería en Sistemas - UNEMI"
- * @elemento "Fuego de dragón 🔥"
  * @idiomas ["Español"]
  * @intereses ["Programación", "Videojuegos", "Tecnología", "Filosofía japonesa"]
  * @armaSecreta "Café y persistencia ☕"
  * @debilidad "Red caótica y Wi-Fi inestable 💀"
  *
- * @returns {Desarrollador} Con espíritu samurái y corazón de código.
+ * @returns {Desarrollador} Sangre digital
  */
 
 
