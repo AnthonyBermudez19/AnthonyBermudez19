@@ -10,7 +10,7 @@
   <img src="https://i.imgur.com/UvNBqZG.png" alt="Japanese Dragon" height="250"/>
 </div>
 
-<h2 align="center" style="color: crimson;">🐉 闇の中へようこそ - Bienvenido al Reino de las Sombras 🐉</h2>
+<h2 align="center" style="color: crimson;">01000100001110001010101010101</h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
