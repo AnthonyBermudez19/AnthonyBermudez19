@@ -28,7 +28,7 @@
  * Sangre digital
  *
  * @location "Ecuador"
- * @alias "Anthony Bermúdez"
+ * @alias "Anto"
  * @specialidad "Ingeniería en Sistemas - UNEMI"
  * @idiomas ["Español"]
  * @intereses ["Programación", "Videojuegos", "Tecnología", "Filosofía japonesa"]
