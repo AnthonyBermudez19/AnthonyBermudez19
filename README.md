@@ -29,7 +29,7 @@
  *
  * @location "Ecuador"
  * @alias "Anto"
- * @specialidad "Ingeniería en Sistemas - UNEMI"
+ * @specialidad "Ingeniería en Software- UNEMI"
  * @idiomas ["Español"]
  * @intereses ["Programación", "Videojuegos", "Tecnología", "Filosofía japonesa"]
  * @armaSecreta "Café y persistencia"
