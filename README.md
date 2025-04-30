@@ -25,7 +25,7 @@
 
 ```js
 /**
- * Sangre digital
+ * web
  *
  * @location "Ecuador"
  * @alias "Anto"
